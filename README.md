@@ -1,3 +1,5 @@
-# Simple Calaculator
-Its a simple calculator program designed using java programming language.The file Calculator3 contains the UI and API and MavenDemo file contains the same calculator program where the data is getting stored in the MySQL database.
-pom.xml file contains the connection between Maven java file and MySQL database.
+# Hunt The Ace
+
+ Its a Game where we need to the Ace of Spades in 4 cards. 
+ It is written mainly using JavaScript, CSS and HTML 
+ For the reference images has been attached 
